@@ -26,5 +26,5 @@ Please refer the screenshot folder for previews
 
 ## Demo 🚀
 
-
+https://snehadeshmukh28.github.io/Weather-App/
 
