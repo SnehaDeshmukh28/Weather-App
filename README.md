@@ -22,7 +22,7 @@ The Weather App is a web application designed to help users check the current we
 
 ## Preview 📷
 
-https://github.com/SnehaDeshmukh28/Weather-App/blob/main/Screenshots/Home.png?raw=true
+Please refer the screenshot folder for previews
 
 ## Demo 🚀
 
